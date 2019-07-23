@@ -28,7 +28,7 @@ I add the labels  "Workshop" to describe where I am and what I'm doing, and add 
 
 🤵🙋🏿 **Tag anyone you think can help you**
 
-I tag a Ambassadors to help me with the swag request, @Shehanka because I know he's another Campus Expert near by and might want to help, and both of them because I think they can contribute to my workshop content and plan.
+I tag a Ambassadors to help me with the swag request, [@Shehanka](https://github.com/Shehanka) because I know he's another Campus Expert near by and might want to help, and both of them because I think they can contribute to my workshop content and plan.
 
 ✨ **Do the thing!**
 
